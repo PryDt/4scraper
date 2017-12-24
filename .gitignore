@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# my own personal scary folder of output
+out/
